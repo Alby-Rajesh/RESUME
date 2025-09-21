@@ -1,0 +1,34 @@
+# Alby Rajesh Resume
+
+This repository contains my professional resume highlighting my skills, projects, certifications, and experience in the field of Artificial Intelligence, Machine Learning, and Deep Learning.
+
+## About Me
+I am an AI/ML enthusiast with experience in Python, PyTorch, SQL, NLP, and Generative AI. I have worked on real-world projects involving medical datasets, RAG-based chatbots, and automated marketing tools. My goal is to contribute my analytical and problem-solving skills to global MNCs.
+
+## Education
+- **B. Tech, Electronics and Communication** – Rajagiri School of Engineering (Tier I), Kochi
+- **Senior Secondary (CBSE)** – Naipunnya Public School, Kochi
+
+## Skills
+- **Programming:** Python, SQL, C
+- **Machine Learning/Deep Learning:** PyTorch, ANN, CNN, RNN, Supervised & Unsupervised Learning, Scikit-learn
+- **Data & Analytics:** Pandas, NumPy, Regression, Clustering
+- **Big Data:** Hive, Spark (beginner)
+- **Frameworks:** LangChain, Streamlit, ChromaDB, Groq SDK, LLaMA
+- **Languages:** English, Hindi, Malayalam
+
+## Projects
+- **RAG-based Chatbot (LangChain + Gemini):** Semantic search and document-aware chatbot.
+- **Cold Email Generator (Groq + LLaMA):** Automated marketing email generator with A/B testing.
+- **Medical Image Classification (PyTorch + CNNs):** CNN-based model for X-ray/MRI classification, deployed with Streamlit.
+
+## Certifications
+- Complete Data Science, Machine Learning, DL, NLP Bootcamp – Krish Naik
+- IBM Introduction to Artificial Intelligence
+- PyTorch for Deep Learning
+
+## Contact
+- Email: [albyrajeshwork@gmail.com](mailto:albyrajeshwork@gmail.com)
+- LinkedIn: [linkedin.com/in/alby-rajesh-187721202](https://www.linkedin.com/in/alby-rajesh-187721202)
+- GitHub: [github.com/Alby-Rajesh](https://github.com/Alby-Rajesh)
+
